@@ -1,0 +1,26 @@
+{
+  "name": "co-challenge",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is the coding challenge for the operations group at LiveEO. \\\r It will check your knowledge on basic file management as well as geospatial data handling. \\\r Let's get started!",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "globby": "^12.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/co-challenge/co-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/co-challenge/co-challenge/issues"
+  },
+  "homepage": "https://github.com/co-challenge/co-challenge#readme"
+}
